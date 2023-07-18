@@ -64,8 +64,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: ./public
-        working-directory: ./supersonicbyte
+          path: ./supersonicbyte/public
 
   # Deployment job
   deploy:

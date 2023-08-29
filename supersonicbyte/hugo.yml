@@ -1,5 +1,5 @@
 baseURL: "https://supersonicbyte.com"
-title: SupersonicByte
+title: supersonicbyte
 paginate: 5
 theme: PaperMod
 
@@ -18,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: supersonicbyte
   description: "decoding bytes."
-  keywords: [Blog, Portfolio, SupersonicByte, iOS, Swift, Objective-C, Software Engineer, BiH, iPhone, iPhone]
+  keywords: [Blog, Portfolio, supersonicbyte, iOS, Swift, Objective-C, Software Engineer, BiH, iPhone, iPhone]
   author: Mirza
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]

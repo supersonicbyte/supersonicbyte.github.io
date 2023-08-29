@@ -5,9 +5,9 @@ type: "about"
 layout: "about"
 ---
 
-a software engineer focusing primarly on iOS & AI. Through my 3 years of professional career I have worked on a diverse set of projects spanning fintech, CSM, document scanning & verification, repair service etc.
+a seasoned engineer with a passion of building disruptive software that runs on iOS. I have worked and contributed on a diverse set of projects including fintech, CSM, document scanning & verification, IoT, repair service etc.
 
-Lately, beside iOS I've been focusing on AI - building AI solutions that run on the Apple platforms. 
+Lately, I've been focusing on briding the AI revolution to iOS.
 
-I've started this blog with a goal of contributing more to open source projects, documenting the process, sharing knowledge and expirience.
+I've started this blog with a goal of contributing more to open source projects, building in public & documenting the process, sharing knowledge and expirience.
 
